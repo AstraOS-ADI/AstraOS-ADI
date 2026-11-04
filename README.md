@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://astraos.page"><img src="https://astraos.page/img/og-image.png" alt="AstraOS – a new operating system with its own kernel" width="720"></a>
+  <a href="https://astraos.page"><img src="img/desktop-start-menu.png" alt="AstraOS desktop with Start menu search (screenshot, 4 Nov 2026)" width="760"></a>
 </p>
 
 <h1 align="center">AstraOS</h1>
@@ -31,9 +31,13 @@
 AstraOS is a new desktop operating system. The kernel, the window system and the apps are our own – not a Linux distribution and not a Windows mod.
 It is built by AI coding assistants and led by one person who does not write code. Everything we list here is tested on every build; what does not work yet, we say.
 
-| Desktop & Start menu | Files | Multi-core |
-|---|---|---|
-| <img src="https://astraos.page/img/startmenu.png" alt="AstraOS desktop with Start menu" width="260"> | <img src="https://astraos.page/img/files.png" alt="AstraOS Files app" width="260"> | <img src="https://astraos.page/img/cores.png" alt="AstraOS using several CPU cores" width="260"> |
+Screenshots from our automatic tests (4 November 2026):
+
+| Files | Task Manager, 4 CPU cores |
+|---|---|
+| <img src="img/files.png" alt="AstraOS Files app" width="380"> | <img src="img/task-manager-4-cores.png" alt="AstraOS Task Manager with 4 CPU cores" width="380"> |
+| **Windows .exe program in the Terminal** | **BusyBox shell on ARM64** |
+| <img src="img/windows-exe.png" alt="A simple Windows .exe program running on AstraOS" width="380"> | <img src="img/arm64-busybox-shell.png" alt="BusyBox shell running on AstraOS ARM64" width="380"> |
 
 ## What already works (tested)
 
@@ -41,11 +45,12 @@ It is built by AI coding assistants and led by one person who does not write cod
 - 📁 **Apps:** Files, Terminal, Text Editor, Calculator, Task Manager, Settings, Web Browser (HTTP)
 - 🧠 **Small:** the OS starts and runs in **64 MB of RAM**
 - 🔀 **Two CPU families:** boots to the desktop on **x86-64** (BIOS + UEFI) and **ARM64** (UEFI)
+- 🪟 **Windows programs:** simple Windows `.exe` programs (console) start from the Terminal or Files
 - 🐧 **Linux programs:** Linux ELF programs and the BusyBox shell run on AstraOS – on x86-64 and ARM64
 - 📦 **`.aapp` apps:** signed app packages, installed with their own rights
 - ⚙️ Several CPU cores, sound, USB keyboard, mouse and USB sticks, network
 
-**Not yet:** HTTPS in the browser, Windows and macOS programs, real-hardware tests – see the [roadmap on the website](https://astraos.page).
+**Not yet:** HTTPS in the browser, big Windows programs, macOS programs, real-hardware tests – see the [roadmap on the website](https://astraos.page).
 
 ## Dates
 
