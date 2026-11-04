@@ -52,7 +52,7 @@ It is built by AI coding assistants and led by one person who does not write cod
 - **Alpha 0.1:** 10 November 2026
 - **Beta:** 1 December 2026
 
-Try it today in a window with the **[AstraOS Starter](https://astraos.page/download/)** (Windows, Linux, macOS).
+Try it today in a window with the **[AstraOS Starter](https://astraos.page/download/)** (tested on Windows; Linux and macOS versions not tested yet).
 
 ## Learn more
 
