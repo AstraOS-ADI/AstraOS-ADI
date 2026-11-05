@@ -5,7 +5,7 @@
 <h1 align="center">AstraOS</h1>
 
 <p align="center">
-  <b>AstraOS is an independent operating system with its own kernel, written from scratch with AI assistants and directed by one person.</b><br>
+  <b>AstraOS is a from-scratch operating system with its own kernel, written from scratch with AI assistants and directed by one person.</b><br>
   No Linux inside, no Windows inside. Runs on <b>x86-64</b> and <b>ARM64</b>. Needs only <b>64 MB of RAM</b>.
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://astraos.page/download/">⬇️ Download</a> ·
   <a href="https://astraos.page/news/">📰 News</a> ·
   <a href="https://astraos.page/faq/">❓ FAQ</a> ·
-  <a href="https://astraos.page/about/">📋 Facts</a> ·
+  <a href="https://astraos.page/about/">📋 Facts</a> ·<br><sub>Official website: astraos.page only – not related to astraos.dev.</sub>
   <a href="https://astraos.page/de/">🇩🇪 Deutsch</a>
 </p>
 
