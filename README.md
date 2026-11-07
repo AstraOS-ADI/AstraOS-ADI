@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://astraos.page"><img src="img/desktop-start-menu.png" alt="AstraOS desktop with Start menu search (screenshot, 7 Nov 2026)" width="760"></a>
+  <a href="https://astraos.page"><img src="img/desktop-start-menu.png" alt="AstraOS desktop with Start menu search (screenshot)" width="760"></a>
 </p>
 
 <h1 align="center">AstraOS</h1>
@@ -32,7 +32,7 @@
 AstraOS is a new desktop operating system. The kernel, the window system and the apps are our own – not a Linux distribution and not a Windows mod.
 It is built by AI coding assistants and led by one person who does not write code. Everything we list here is tested on every build; what does not work yet, we say.
 
-Screenshots from our automatic tests (7 November 2026):
+Screenshots from our automatic tests (current build):
 
 | Files | Task Manager, 4 CPU cores |
 |---|---|
