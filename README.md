@@ -21,7 +21,7 @@
 
 <p align="center">
   <img alt="Status: pre-alpha" src="https://img.shields.io/badge/status-pre--alpha-E3A33B?style=flat-square">
-  <img alt="Alpha 0.1: 12 Nov 2026" src="https://img.shields.io/badge/Alpha%200.1-12%20Nov%202026-E3A33B?style=flat-square">
+  <img alt="Beta: 1 Dec 2026" src="https://img.shields.io/badge/Beta-1%20Dec%202026-E3A33B?style=flat-square">
   <img alt="Kernel: own" src="https://img.shields.io/badge/kernel-own%2C%20from%20scratch-202022?style=flat-square">
   <img alt="CPU: x86-64 + ARM64" src="https://img.shields.io/badge/CPU-x86--64%20%2B%20ARM64-202022?style=flat-square">
   <img alt="RAM: 32 MB minimum" src="https://img.shields.io/badge/RAM-32%20MB%20minimum-202022?style=flat-square">
@@ -57,8 +57,7 @@ Real screenshots from our automatic tests:
 
 ## Dates
 
-- **Alpha 0.1:** 12 November 2026, 20:30 (CET)
-- **Beta:** 1 December 2026
+- **Beta:** 1 December 2026, 20:30 (CET)
 
 Try it in a window with the **[AstraOS Starter](https://astraos.page/download/)** (tested on Windows; Linux and macOS versions not tested yet).
 
