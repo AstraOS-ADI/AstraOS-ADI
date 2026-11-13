@@ -41,7 +41,7 @@ Real screenshots from AstraOS:
 
 ## Status
 
-AstraOS is in pre-alpha. The **beta is planned for 1 December 2026 at 20:30** – you get it with the Astra Install Helper: try it in a window, or put it on a USB stick or a second drive. Dates can move; we will tell you honestly.
+AstraOS is in pre-alpha. The **beta is planned for 1 December 2026 at 20:30** – you get it with the Astra Install Helper for Windows, Linux and macOS: try it in a window, put it on a USB stick, a second drive (dual boot) or a hard drive (keep your files or erase everything), or make an ISO file for virtual machines. Dates can move; we will tell you honestly.
 
 What we are working on right now is on the [News page](https://astraos.page/news/).
 
