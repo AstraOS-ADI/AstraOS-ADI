@@ -47,4 +47,4 @@ What we are working on right now is on the [News page](https://astraos.page/news
 
 ---
 
-📬 Contact: **contact@astraos.page** · The kernel source is not public (yet).
+📬 Contact: **contact@astraos.page** · The kernel source stays private.
