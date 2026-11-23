@@ -22,7 +22,7 @@
 
 <p align="center">
   <img alt="Status: pre-alpha" src="https://img.shields.io/badge/status-pre--alpha-E3A33B?style=flat-square">
-  <img alt="Beta: 1 Dec 2026" src="https://img.shields.io/badge/Beta-1%20Dec%202026-E3A33B?style=flat-square">
+  <img alt="Beta 1: April 2027" src="https://img.shields.io/badge/Beta%201-April%202027-E3A33B?style=flat-square">
   <img alt="Kernel: own" src="https://img.shields.io/badge/kernel-our%20own-202022?style=flat-square">
   <img alt="RAM: 32 MB minimum" src="https://img.shields.io/badge/RAM-32%20MB%20minimum-202022?style=flat-square">
 </p>
@@ -41,7 +41,7 @@ Real screenshots from AstraOS:
 
 ## Status
 
-AstraOS is in pre-alpha. The **beta is planned for 1 December 2026 at 20:30** – you get it with the Astra Install Helper for Windows, Linux and macOS: try it in a window, put it on a USB stick, a second drive (dual boot) or a hard drive (keep your files or erase everything), or make an ISO file for virtual machines. Dates can move; we will tell you honestly.
+AstraOS is in pre-alpha. **Beta 1 is planned for April 2027**, once AstraOS is ready for everyday use – you get it with the Astra Install Helper for Windows, Linux and macOS: try it in a window, put it on a USB stick, a second drive (dual boot) or a hard drive (keep your files or erase everything), or make an ISO file for virtual machines. Until then you can try the pre-alpha. Dates can move; we will tell you honestly.
 
 What we are working on right now is on the [News page](https://astraos.page/news/).
 
