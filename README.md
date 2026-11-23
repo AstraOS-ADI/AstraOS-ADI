@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>A new operating system with its own kernel – small enough to run in 32 MB of memory.</b><br>
-  Needs a 64-bit PC (<b>x86-64</b>). 32 MB of RAM minimum, 128 MB recommended for apps.
+  Needs a 64-bit PC (<b>x86-64</b>). 32 MB of RAM minimum, 2 GB recommended for apps.
 </p>
 
 <p align="center">
